@@ -1,5 +1,5 @@
-!/usr/bin/env bash
-# Bash script that sets up your web servers
+#!/usr/bin/env bash
+#  Bash script that sets up your web servers 
 sudo apt-get -y update
 sudo apt-get -y upgrade
 sudo apt-get -y install nginx
